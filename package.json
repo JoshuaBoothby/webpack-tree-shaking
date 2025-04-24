@@ -3,12 +3,16 @@
   "type": "module",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": { "build": "webpack" },
+  "scripts": {
+    "build": "webpack"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
     "webpack": "^5.99.6",
     "webpack-cli": "^6.0.1"
   }
