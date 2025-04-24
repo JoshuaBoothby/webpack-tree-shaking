@@ -1,0 +1,15 @@
+{
+  "name": "week2-day3-assignment",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "build": "webpack" },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.99.6",
+    "webpack-cli": "^6.0.1"
+  }
+}
